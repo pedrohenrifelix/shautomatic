@@ -4,3 +4,5 @@ Este é um pacote de ferramentas que podem ser utilizados por administrador linu
 
 
 Toda colaboração será bem vinda!
+
+Viva a comunidade linux
